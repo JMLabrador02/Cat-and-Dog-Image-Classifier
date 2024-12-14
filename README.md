@@ -1,2 +1,2 @@
-# Cat-and-Dog-Image-Classifier
+# Projects
 Welcome, to my Github!
